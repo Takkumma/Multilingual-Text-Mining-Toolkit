@@ -3,7 +3,7 @@
 A multilingual text mining toolkit built on spaCy, offering advanced features like concordancers, co-occurrence analysis, dependency parsing, and network visualization. This interactive Jupyter Notebook suite enables efficient text data preprocessing, exploration, and analysis for cross-lingual research.
 
 ## 概要
-spaCyを基盤とした多言語対応のテキストマイニングツールキットです。コンコーダンス検索、共起分析、依存構造解析、ネットワーク可視化など、多様な分析機能を提供します。Jupyter Notebookベースの対話的な分析環境により、多言語に対応したテキストデータの効率的な前処理、探索的分析、検証的分析を可能にします。
+spaCyを基盤とした多言語対応のテキストマイニングツールキットです。コンコーダンス検索、共起語分析、特徴語分析、依存構造分析、共起ネットワーク分析など、多様な分析機能を提供します。Jupyter Notebookベースの対話的な分析環境により、多言語に対応したテキストデータの効率的な処理、探索的分析、検証的分析を可能にします。
 
 ## 主な機能
 - **テキストファイル解析**: spaCyの統計モデルを用いたテキストの基本解析（他の分析の前提条件）
